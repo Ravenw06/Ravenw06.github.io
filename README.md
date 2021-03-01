@@ -3,28 +3,27 @@
 Refactor the original code, following a accessibility standers, eliminate duplication by grouping classes that share similar properties.
 
 Tasks list:
-
-[x]Accessibility standards
+-[x]Accessibility standards
 
 Adjusted the padding, page structure and font-size, screen-reader accessible
 
-[x]Sematic elements
+-[x]Sematic elements
 
 Started with Header, Body, Main to Footer
 
-[x]logical Structure
+-[x]logical Structure
 
 Eliminated redundant code by adding class and grouping
 
-[x]Alt attributes
+-[x]Alt attributes
 
 Descriptive words are provided under the image src
 
-[x]sequential order
+-[x]sequential order
 
 H1, H2, Then H3
 
-[x]Concise, descriptive title
+-[x]Concise, descriptive title
 
 Horiseon Social Solution Services
 
