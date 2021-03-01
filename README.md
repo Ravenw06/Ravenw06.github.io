@@ -4,8 +4,10 @@ elminate duplication by grouping classes that share similar properties.
 
 Tasks list:
 - [x]Accessiblity standards
+
     Adjusted the padding, page structure and font-size, screen-reader accessible
 - [x]Sematic elements
+- 
     Started with Header, Body, Main to Footer
 - [x]logical Structure
     Elminated redunant code by adding class and grouping
