@@ -7,15 +7,19 @@ Tasks list:
 
     Adjusted the padding, page structure and font-size, screen-reader accessible
 - [x]Sematic elements
-- 
+
     Started with Header, Body, Main to Footer
 - [x]logical Structure
+
     Elminated redunant code by adding class and grouping
 - [x]Alt attributes
+
     Decriptive words are provided under the image src
 - [x]sequentail order
+
     H1, H2, Then H3
 - [x]Concise, descriptive title
+
     Horiseon Social Solution Services
 
 
