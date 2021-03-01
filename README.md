@@ -18,10 +18,7 @@ Tasks list:
 
 
 Image:![image](https://user-images.githubusercontent.com/78116042/109452181-2c408c00-7a1d-11eb-8a92-9e65efaffd9f.png)
-
 ![image](https://user-images.githubusercontent.com/78116042/109452220-47130080-7a1d-11eb-8c55-2133a79e5af0.png)
-
-
 ![image](https://user-images.githubusercontent.com/78116042/109452028-d4098a00-7a1c-11eb-891a-c0d0b9d258b7.png)
 
 
