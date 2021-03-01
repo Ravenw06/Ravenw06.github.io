@@ -1,27 +1,32 @@
 # HTML-CSS-Git-Challenge-Code-Refactor
-Refactor the orginal code, following a accessibility standars, 
-elminate duplication by grouping classes that share similar properties.
+
+Refactor the original code, following a accessibility standers, eliminate duplication by grouping classes that share similar properties.
 
 Tasks list:
-- [x]Accessiblity standards
 
-    Adjusted the padding, page structure and font-size, screen-reader accessible
-- [x]Sematic elements
+[x]Accessibility standards
 
-    Started with Header, Body, Main to Footer
-- [x]logical Structure
+Adjusted the padding, page structure and font-size, screen-reader accessible
 
-    Elminated redunant code by adding class and grouping
-- [x]Alt attributes
+[x]Sematic elements
 
-    Decriptive words are provided under the image src
-- [x]sequentail order
+Started with Header, Body, Main to Footer
 
-    H1, H2, Then H3
-- [x]Concise, descriptive title
+[x]logical Structure
 
-    Horiseon Social Solution Services
+Eliminated redundant code by adding class and grouping
 
+[x]Alt attributes
+
+Descriptive words are provided under the image src
+
+[x]sequential order
+
+H1, H2, Then H3
+
+[x]Concise, descriptive title
+
+Horiseon Social Solution Services
 
 Image:![image](https://user-images.githubusercontent.com/78116042/109452181-2c408c00-7a1d-11eb-8a92-9e65efaffd9f.png)
 ![image](https://user-images.githubusercontent.com/78116042/109452220-47130080-7a1d-11eb-8c55-2133a79e5af0.png)
